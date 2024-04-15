@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Decoracion Living",
+        "description": "Un espacio especial pensado para tu vida",
+        "rating": 4.69,
+        "category": "living",
+        "images": [
+            "../../assets/model_living.png"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Decoracion Cocina",
+        "description": "El lugar en que pasaras mucho tiempo tiene que ver con vos",
+        "rating": 5.00,
+        "category": "cocina",
+        "images": [
+            "../../assets/model_cocina.png"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Decoracion Cocina",
+        "description": "El lugar en que pasaras mucho tiempo tiene que ver con vos",
+        "rating": 5.00,
+        "category": "cocina",
+        "images": [
+            "../../assets/model_cocina.png"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Decoracion Cocina",
+        "description": "El lugar en que pasaras mucho tiempo tiene que ver con vos",
+        "rating": 5.00,
+        "category": "cocina",
+        "images": [
+            "../../assets/model_cocina.png"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Decoracion Cocina",
+        "description": "El lugar en que pasaras mucho tiempo tiene que ver con vos",
+        "rating": 5.00,
+        "category": "cocina",
+        "images": [
+            "../../assets/model_cocina.png"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Decoracion Cocina",
+        "description": "El lugar en que pasaras mucho tiempo tiene que ver con vos",
+        "rating": 5.00,
+        "category": "cocina",
+        "images": [
+            "../../assets/model_cocina.png"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Decoracion Cocina",
+        "description": "El lugar en que pasaras mucho tiempo tiene que ver con vos",
+        "rating": 5.00,
+        "category": "cocina",
+        "images": [
+            "../../assets/model_cocina.png"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Decoracion Cocina",
+        "description": "El lugar en que pasaras mucho tiempo tiene que ver con vos",
+        "rating": 5.00,
+        "category": "cocina",
+        "images": [
+            "../../assets/model_cocina.png"
+        ]
+    }
+]
