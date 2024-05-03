@@ -4,8 +4,8 @@ import CategoryItem from "../components/CategoryItem"
 import categories from "../data/categories.json"
 
 const Home = ({ route, navigation }) => {
-  // console.log(route)
-  // console.log(navigation)
+  console.log(route)
+  console.log(navigation)
   return (
     <View style={styles.flatListContainer}>
       <FlatList

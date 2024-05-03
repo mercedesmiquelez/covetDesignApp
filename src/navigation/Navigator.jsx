@@ -12,18 +12,17 @@ const Stack = createNativeStackNavigator()
 const Navigator = () => {
   return (
     <NavigationContainer>
-        <Header title={COVET DESIGN}/>
         <Stack.Navigator
-            // initialRouteName='Home'
-            // screenOptions = {
-            //     ({route}) => (
-            //         {
-            //             header: () => {
-            //                 return <Header title={route.name === "Home" ? "Categories" : route.name === "ItemListCategory" ? route.params.category : "Detail" }/>
-            //             }
-            //         }
-            //     )
-            // }
+            initialRouteName='Home'
+            screenOptions = {
+                ({route}) => (
+                    {
+                        header: () => {
+                            return <Header title={route.name === "Home" ? "Categories" : route.name === "ItemListCategory" ? route.params.category : "Detail" }/>
+                        }
+                    }
+                )
+            }
         >
             <Stack.Screen
                 component={Home}
