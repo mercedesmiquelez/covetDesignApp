@@ -28,9 +28,9 @@ const App = () => {
 
 const styles = StyleSheet.create({
   container: {
-    marginTop: 30,
+    marginTop: Platform.OS === "android" ? StatusBar.currentHeight : 0,
     flex: 1,
-    alignItems: "center",
+    // alignItems: "center",
     backgroundColor: colors.grey400,
   },
 })

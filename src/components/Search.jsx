@@ -20,7 +20,7 @@ const Search = ({ onSearch = () => {}, error = "", goBack = () => {} }) => {
 
       </View>
       <Pressable onPress={() => onSearch(keyword)}>
-        <FontAwesome name="search" size={24} color="white" />
+        <FontAwesome6 name="searchengin" size={24} color="white" />
       </Pressable>
       <Pressable onPress={() => setKeyword("")}>
         <FontAwesome5 name="eraser" size={24} color="white" />
@@ -49,7 +49,6 @@ const styles = StyleSheet.create({
     width: '70%',
   },
   input: {
-    width: 250,
     padding: 8,
     fontSize: 18,
     backgroundColor: colors.grey600,

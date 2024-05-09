@@ -30,19 +30,20 @@ export default ProductItem
 const styles = StyleSheet.create({
   image: {
     height: 120,
-    width: 100,
+    width: "30%",
     borderRadius: 8
   },
   additionalStylesCard: {
-    backgroundColor: colors.pink100,
-    paddingLeft: 10,
-    flexDirection: 'row',
+    // backgroundColor: colors.pink100,
+    // paddingLeft: 10,
+    // flexDirection: 'row',
     height: 120,
     width: 300,
-    justifyContent: 'space-between',
+    // justifyContent: 'space-between',
     margin: 10,
   },
   textCategory: {
+    width: "70%",
     color: colors.white200
   },
   pressable: {
