@@ -1,3 +1,4 @@
+import { colors } from "../constants/colors"
 import {
   Button,
   Image,
@@ -35,7 +36,7 @@ const ItemDetail = ({ route, navigation }) => {
 
   return (
     <View>
-      <Button onPress={() => navigation.goBack()} title="Go back" />
+      <Button onPress={() => navigation.goBack()} title="Go back" color="grey" style={{ marginVertical: 15, marginHorizontal: 10, borderRadius: 10 }}/>
       {product ? (
         <View
           style={
@@ -53,7 +54,7 @@ const ItemDetail = ({ route, navigation }) => {
             <Text>{product.title}</Text>
             <Text>{product.description}</Text>
             <Text style={styles.price}>${product.price}</Text>
-            <Button title="Add cart"></Button>
+            <Button title="Add cart" color="grey" style={{ marginVertical: 15, marginHorizontal: 10, borderRadius: 10 }}></Button>
           </View>
         </View>
       ) : null}
@@ -65,6 +66,7 @@ export default ItemDetail
 
 const styles = StyleSheet.create({
   mainContainer: {
+    backgroundColor: colors.grey400,
     flexDirection: "column",
     justifyContent: "center",
     alignItems: "flex-start",
@@ -86,6 +88,7 @@ const styles = StyleSheet.create({
     height: 200
   },
   textContainer: {
+    color: colors.white100,
     flexDirection: "column",
   },
 

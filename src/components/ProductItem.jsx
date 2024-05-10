@@ -34,12 +34,13 @@ const styles = StyleSheet.create({
     borderRadius: 8
   },
   additionalStylesCard: {
-    // backgroundColor: colors.pink100,
-    // paddingLeft: 10,
-    // flexDirection: 'row',
+    backgroundColor: colors.grey600,
+    paddingLeft: 10,
+    borderRadius: 10,
+    flexDirection: 'row',
     height: 120,
     width: 300,
-    // justifyContent: 'space-between',
+    justifyContent: 'space-between',
     margin: 10,
   },
   textCategory: {
