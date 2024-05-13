@@ -2,82 +2,82 @@
     {
         "id": 1,
         "title": "Decoracion Living",
-        "description": "Un espacio especial pensado para tu vida",
+        "description": "El living es un espacio elegante, contemporáneo y funcional, donde cada elemento se elige con cuidado para crear un ambiente armonioso y sofisticado.",
         "rating": 4.69,
         "price": 500,
         "category": "living",
-        "images": "https://www.flickr.com/photos/decorology/2840648030/in/photolist-5k24Gb-58VaWS-3gN5Jh-2Ws1aL-5oAguu-bAW6S-2nH7tbD-3fKQep-avbXDg-Bd3jF-avbXEi-dY83T4-uKy2w-2nhrwCi-2m3EWev-2iWYdxw-7MyjLZ-aCia3A-LHChns-5BQp6d-58VaMu-2jat4uw-4Wi89s-2mD9nhX-2oq7wue-PuSmn-bn97oD-TVx8AE-bnADnd-aveDko-4onrk-2czquvp-2sMJQZ-7ubAEm-fBmjN-2JhNG-aqxQQz-r7U8KN-xWHoRj-iGbkts-5aZnxV-2fs2nG5-3jJFsh-86PbJT-7bYPVj-VoT7F-6Qzqgy-8v4kwY-ySHAkt-e7AG6J"
+        "images": "https://i.postimg.cc/mZPxXQng/model-living.jpg"
     },
     {
         "id": 2,
         "title": "Decoracion Cocina",
-        "description": "El lugar en que pasaras mucho tiempo tiene que ver con vos",
+        "description": "Una cocina se distingue por su enfoque en la elegancia, la funcionalidad y la innovación estética. Presenta una paleta de colores que combina tonos neutros con detalles llamativos, creando un ambiente sofisticado y acogedor.",
         "rating": 5.00,
         "price": 500,
         "category": "cocina",
-        "images": "https://www.flickr.com/photos/maxmborge/462221799/in/photolist-GR1rn-XYQ7z6-iT16Hp-nCsYRi-4asp7Z-jTtE5P-9RfoCD-3eNx5G-xRdLJq-awKpdV-bAeJu5-h7BQHd-bmJYJF-JzNtoi-duJzX2-QyXsvn-9rquPc-nPLdF2-a4gMDZ-8GCXFA-a2oKTa-4wEQXK-4XmcPz-abKaBN-nmsJAw-apjGnX-D37fE-ixdaD7-mvLXh-dM5F16-LNBbBk-cuGWs9-e61vZK-4jVDNc-ddJ4yv-7jPLK9-a2Xkoq-3Tyzaf-284gZgQ-D37fW-bmHsNd-a65his-8XPWhS-bzF8Un-bxohS4-7sspJ5-N7cntQ-5ktVwj-zAE4Kz-22du2tr"
+        "images": "https://i.postimg.cc/C53smyQk/model-cocina.jpg"
     },
     {
         "id": 3,
-        "title": "Dormitorio",
-        "description": "El lugar en que pasaras mucho tiempo tiene que ver con vos",
+        "title": "Decoracion Dormitorio",
+        "description": "Un dormitorio es un santuario de tranquilidad y estilo, donde la funcionalidad se combina con la estética para crear un espacio acogedor y relajante. ",
         "rating": 5.00,
         "price": 500,
         "category": "dormitorio",
-        "images": "https://www.flickr.com/photos/126894624@N06/26212821513/in/photolist-FWkyAv-6WSJ6n-8X5iQg-RUWekn-71S5hj-83kx5r-paeDwu-TxAF1b-qiTH2f-pGnVaV-Mv3pac-Txnm3C-TxbFeL-ARUXqR-K45icG-APJFh1-K45io3-JaFUg8-K45igQ-Mv3p38-JFdAxJ-JWU3zs-JaDyej-ppGsnJ-rQRem1-qmGV66-pG9Riy-qD9Br6-qmzUju-J5hvb3-MhscMf-QgnQiA-zFvkvZ-6AU7ZN-7HMezN-6mLfMg-7HMurd-6AYsiV-6AYshM-8FNFtj-eCXuzu-NkeXdi-2fFiJ72-Mvb7Z1-RSjdpD-AcXMpY-ANCBXN-b3NsSv-2ehPTSe-b3Nspa"
+        "images": "https://i.postimg.cc/tTfcQMcC/model-domitorio.jpg"
     },
     {
         "id": 4,
-        "title": "Decoracion Cocina",
-        "description": "El lugar en que pasaras mucho tiempo tiene que ver con vos",
+        "title": "Decoracion Comedor",
+        "description": "Un comedor debe ser un espacio que combina funcionalidad y estilo de manera armoniosa.",
         "rating": 5.00,
         "price": 500,
         "category": "comedor",
-        "images": "https://www.flickr.com/photos/92139328@N05/8411173997/in/photolist-pjhs5Z-oDMeay-nYwRux-J2GWTN-ENaWXs-aRXZzF-dXsgpR-isicy-fmshLv-F9ke9m-knE1iA-5sHHEh-adDcPz-bjjDs8-a8TcNK-kL6NVR-k69HKP-LynR23-KEXA5-aKSKBB-iqQ8qa-81owE7-5U8sQc-jNocVc-9hu6Ba-7CVE2K-qhsSnM-oNJDv4-4dN735-aoCNPt-bjjEYD-6oNXX-odVQam-ymXLsA-a8B2QX-maCsax-oxuCkW-c5BE5o-c5BEnW-qRdr34-h6Unb-JbBkXV-nyGhXi-cxftg9-4k5bR7-dPgsZk-adDibg-4BbFuD-8xnKH4-bBVfuS"
+        "images": "https://i.postimg.cc/8cJbRktT/model-comedor.jpg"
     },
     {
         "id": 5,
-        "title": "Decoracion Cocina",
-        "description": "El lugar en que pasaras mucho tiempo tiene que ver con vos",
+        "title": "Decoracion Espacio Especial",
+        "description": "Un espacio especial es aquel que combina cuidadosamente funcionalidad y estética, creando un ambiente único y acogedor que refleja la personalidad y las necesidades de quienes lo habitan.",
         "rating": 5.00,
         "price": 500,
         "category": "escritorio",
-        "images": "https://www.flickr.com/photos/garrettmurray/6090906544/in/photolist-aheuj5-4nWkqH-GeWCbh-6foyfa-4DbNbe-8Gu1te-aheAHh-dg9zLm-qSov3G-biAjB4-biAhmi-67rvw4-2D41p-aZbixD-dQTmXT-52TR1V-9mnVor-5VutQ6-72kZVQ-4HGJMT-4HLZu7-osL8a-7v3fbj-92wWdh-b3NqP2-6VSxrT-8tKKf5-J5ZDj6-8umkP8-4QGq3n-7VKvjL-76BapD-5sEqzJ-4f6tPP-hGqtV9-7Fanjj-brVxUd-5SJGR3-ejYLQu-2G9698-8fDVUp-4Hch3F-b6Xf9n-95Eygm-2kBPa-pvSJMo-8ZqA9Q-qUwnf9-Lw3hi-dWsdkx"
+        "images": "https://i.postimg.cc/prF62BNQ/model-eespeciales-1.jpg"
     },
     {
         "id": 6,
-        "title": "Decoracion Cocina",
-        "description": "El lugar en que pasaras mucho tiempo tiene que ver con vos",
+        "title": "Decoracion Galeria",
+        "description": "Una galería es un espacio que armoniza la exhibición de obras de arte con una disposición fluida y una iluminación estratégica, creando una experiencia inmersiva que resalta la belleza y el significado de cada pieza.",
         "rating": 5.00,
         "price": 500,
         "category": "galeria",
-        "images": "https://www.flickr.com/photos/danton/3584757595/in/photolist-6sLPxr-VXHCBo-5h9MTF-7EKa8K-55iqPA-D2hu-6aEyBH-aH7KRr-CfH8b-2od4HeL-9Fgxha-hk5q-CfH7Z-tXjBw3-6c7h6C-7GaTqU-6dkQqQ-6dgFqK-2gdY5Xj-229L4Ku-24gx3Jt-HHRSDP-22aDuDN-CfH7x-HBAwLp-HETDAE-HHRT6R-HBAxc4-c3fN3w-4J9Lnv-2phCqPz-2cuHK3U-2o2TgpA-V2JSuN-HHRThc-aH7KZi-bAwcQu-2pfUpdS-FQZXp9-3PsWvY-3qxPQe-2m5VAuX-2kDS5Bv-2phDyyf-rDLJwb-HBAxqa-SgG6vz-2m1pLDw-2nKdg1V-NX9xBA"
+        "images": "https://i.postimg.cc/tRZft911/model-galeria.jpg"
     },
     {
         "id": 7,
-        "title": "Decoracion Cocina",
-        "description": "El lugar en que pasaras mucho tiempo tiene que ver con vos",
+        "title": "Decoracion Jardin",
+        "description": "Un jardín bien diseñado es un oasis verde que integra plantas seleccionadas con cuidado, elementos arquitectónicos y áreas de descanso, creando un ambiente tranquilo y visualmente atractivo que invita a la relajación y la conexión con la naturaleza.",
         "rating": 5.00,
         "price": 500,
         "category": "jardin",
-        "images": "https://www.flickr.com/photos/ilovestkittsandnevis/8673222666/in/photolist-edqwVQ-w8PK1Y-W5unZ1-513UV4-edjQWT-6wpyZi-edqvpf-edquT9-edjS5n-6wtKmq-edqtSo-ugjoyr-7iWfLt-7gPMF9-68BmHp-5Kxdgg-edjRKr-edjTNc-edqu5o-e8E8xu-edqtzU-edqvDo-edqtZQ-edjQex-bjS4Py-edqxH9-edjStV-fQLQ5K-bjS4PL-edjQpe-btvTqZ-e8E8VU-edqtn5-edqw2w-bjS4PE-9ex6CC-edjUSg-e8yszx-e8ysG4-2gUk7Hn-edjV4P-edjRMR-doVf4F-biQAGe-bjS4PA-59Vj1S-e8E8Jf-qCKZHz-edqvk7-e8ysEK"
+        "images": "https://i.postimg.cc/h4kY2Nx2/model-jardin.jpg"
     },
     {
         "id": 8,
-        "title": "Decoracion Cocina",
-        "description": "El lugar en que pasaras mucho tiempo tiene que ver con vos",
+        "title": "Decoracion Terraza",
+        "description": "Una terraza bien diseñada es un espacio al aire libre que combina confort y estilo, con mobiliario cómodo, elementos decorativos cuidadosamente seleccionados y una distribución que maximiza el aprovechamiento del área, creando un ambiente acogedor y relajante para disfrutar al aire libre.",
         "rating": 5.00,
         "price": 500,
         "category": "terraza",
-        "images": "https://www.flickr.com/photos/whoangra/1244145179/in/photolist-2TWz1X-2tSuFE-azLB6n-HYHgEh-8sDWqX-o84bBu-bP8YRH-8Q5vLN-AMTfNT-9NA3My-dYfPRm-aqzVdD-dt5nR6-9SF768-8bGpsP-du7fBE-bSky5K-5sgMCg-du1Ewi-8E7MEY-edMpFb-c3H4gd-6nFyMj-4xawyn-94S3Zq-bYxE9-wg4tfX-azNUhZ-HdkybL-cjGcy5-8XJGGC-5juFc9-9U1J4E-it67eZ-LekoQw-2b6CoY-4Cdvm9-9PiAbF-e2DNmr-YfoJVN-86TyrT-djubaF-8ovjuP-Qqhxqb-s8jhJJ-8tV1Td-5tREK4-MmC77H-C8JEoJ-pxb83Z"
+        "images": "https://i.postimg.cc/Pr1R9KQT/model-terraza.jpg"
     },
     {
         "id": 9,
-        "title": "Decoracion Cocina",
-        "description": "El lugar en que pasaras mucho tiempo tiene que ver con vos",
+        "title": "Decoracion Espacios Verdes",
+        "description": "Un espacio verde en una vivienda bien diseñado es un oasis de tranquilidad y belleza que integra plantas variadas, elementos de paisajismo y zonas de descanso, creando un ambiente naturalmente refrescante y acogedor que promueve la conexión con la naturaleza.",
         "rating": 5.00,
         "price": 500,
         "category": "verdes",
-        "images": "https://www.flickr.com/photos/66909137@N04/6118043199/in/photolist-ajCz6r-cqwbJE-AaHUPz-9Jpe5j-zdFZPs-4zUnwV-d3g1M3-9EUxfV-7dGXB1-Hfhtk8-2npCaCU-2mkc3T1-2mf197F-2ma2ztR-2jqSJnf-2jqSJ7W-XgqDGE-ZVx1RQ-ae973r-bzdnov-QRoryF-fjRS5y-297j25f-r1tk3W-bnqPKa-24bdeL6-26osmMs-DvwquZ-21JsgRc-2o2AFuq-akyP5J-KTT5GA-2pyxhf8-2oE7G4c-2miDiaG-2b7pjgq-arg1Y6-2ojdXww-SorMYE-2pBiB4h-xXS9PZ-MSz8iu-2he92pA-2gmdVjE-2pv4EZK-oisHJ-2d81UjH-NmcvE4-2pkLhaq-2jet1nM"
+        "images": "https://i.postimg.cc/tRZft911/model-galeria.jpg"
     }
 ]
