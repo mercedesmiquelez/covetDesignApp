@@ -26,13 +26,17 @@ const BottomTabNavigator = () => {
             })}
         >
             <Tab.Screen
-                name="COVET DESIGN"
+                name="Shop"
                 component={HomeStackNavigator}
                 options={{
                     tabBarIcon: ({ focused }) => {
                         return (
                             <View>
-                                <Entypo name="shop" size={24} color="white" />
+                                <FontAwesome5
+                                    name="store"
+                                    size={24}
+                                    color={focused ? "white" : colors.white100}
+                                />
                             </View>
                         )
                     },
@@ -48,7 +52,7 @@ const BottomTabNavigator = () => {
                                 <FontAwesome6
                                     name="cart-shopping"
                                     size={24}
-                                    color={focused ? "black" : colors.grey900}
+                                    color={focused ? "white" : colors.white100}
                                 />
                             </View>
                         )
@@ -93,8 +97,8 @@ export default BottomTabNavigator
 
 const styles = StyleSheet.create({
     tabBar: {
-        backgroundColor: colors.grey400,
-        shadowColor: "black",
+        backgroundColor: colors.grey900,
+        shadowColor: "grey",
         elevation: 4,
         borderRadius: 15,
         height: 60,

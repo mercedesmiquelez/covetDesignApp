@@ -1,1 +1,25 @@
-[]
+[
+    {
+    "id": 1,
+    "userId": 2,
+    "createdAt": 1679869276580,
+    "items": [
+        {
+            "id": 1,
+            "title": "Decoracion Living",
+            "description": "El living es un espacio elegante, contemporáneo y funcional, donde cada elemento se elige con cuidado para crear un ambiente armonioso y sofisticado.",
+            "rating": 4.69,
+            "price": 500,
+            "category": "living",
+            "images": [
+                "https://i.postimg.cc/mZPxXQng/model-living.jpg"
+            ],
+            "discountPercentage": 0,
+            "stock": 0,
+            "brand": "",
+            "thumbnail": "https://i.postimg.cc/mZPxXQng/model-living.jpg"
+        }
+        ],
+        "quantity": 10
+    }
+]

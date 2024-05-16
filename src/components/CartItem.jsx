@@ -8,10 +8,10 @@ const CartItem = ({ cartItem }) => {
         <View style={styles.card} onPress={() => {}}>
             <View style={styles.textContainer}>
                 <Text style={styles.text}>{cartItem.title} ({cartItem.quantity})</Text>
-                <Text style={styles.text2}>{cartItem.brand}</Text>
+                <Text style={styles.text2}>{cartItem.category}</Text>
                 <Text style={styles.text2}>${cartItem.price}</Text>
             </View>
-            <Entypo name="trash" size={30} color="black" />
+            <Entypo name="trash" size={30} color="grey" />
         </View>
     );
 };
@@ -21,7 +21,7 @@ export default CartItem;
 const styles = StyleSheet.create({
     card: {
         height: 100,
-        backgroundColor: colors.platinum,
+        backgroundColor: colors.white200,
         padding: 10,
         margin: 10,
         borderWidth: 2,
@@ -39,11 +39,11 @@ const styles = StyleSheet.create({
     text: {
         fontFamily: "Josefin",
         fontSize: 19,
-        color: colors.grey400,
+        color: colors.grey600,
     },
     text2: {
         fontFamily: "Josefin",
         fontSize: 14,
-        color: colors.grey600,
+        color: colors.grey900,
     },
 });
