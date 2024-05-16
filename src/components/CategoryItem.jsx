@@ -3,11 +3,21 @@ import React from "react"
 import { colors } from "../constants/colors"
 import Card from "./Card"
 import allProducts from "../data/products.json"
+import { useDispatch, useSelector } from "react-redux"
+import { setCategorySelected } from "../features/Shop/shopSlice"
 
 const CategoryItem = ({ category, navigation }) => {
+
+  const dispatch = useDispatch()
+
+  const handleNavigate = () => {
+    dispatch(setCategorySelected(category))
+    navigation.navigate('ItemListCategory', {category})
+  }
+
   return (
     <Card style={styles.cardStyle}>
-      <Pressable onPress={()=>navigation.navigate('ItemListCategory', {category})}>
+      <Pressable onPress={handleNavigate}>
         <Text style={styles.text}>{category}</Text>
         {/* <Image
           resizeMode="cover"
