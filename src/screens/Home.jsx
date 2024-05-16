@@ -3,10 +3,11 @@ import { colors } from "../constants/colors"
 import CategoryItem from "../components/CategoryItem"
 import categories from "../data/categories.json"
 import Counter from "../components/Counter"
+import ShopLayout from "../components/ShopLayout"
 
-const Home = ({ route, navigation }) => {
+const Home = ({ route, navigation}) => {
   return (
-    <View style={styles.flatListContainer}>
+    <ShopLayout>
       <Counter/>
       <FlatList
         showsVerticalScrollIndicator={false}
@@ -14,12 +15,12 @@ const Home = ({ route, navigation }) => {
         data={categories.sort()}
         renderItem={({ item }) => (
           <CategoryItem 
-          navigation={navigation} 
-          category={item} 
+            navigation={navigation} 
+            category={item} 
           />
         )}
       />
-    </View>
+    </ShopLayout>
   )
 }
 

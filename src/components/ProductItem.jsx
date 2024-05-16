@@ -26,7 +26,7 @@ const ProductItem = ({
         <Image
           resizeMode="cover"
           style={styles.image}
-          source={{ uri: product.images }}
+          source={{ uri: product.images[0] }}
         />
       </Pressable>
     </Card>

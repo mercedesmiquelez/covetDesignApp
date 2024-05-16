@@ -1,16 +1,30 @@
 import { StyleSheet, Text, View, useWindowDimensions } from 'react-native'
-import React from 'react'
+import React, {useState} from 'react'
 import { colors } from '../constants/colors'
-import { useSelector } from 'react-redux'
+import { useDispatch, useSelector } from 'react-redux'
+import SwitchCustom from './SwitchCustom'
+import { setDarkMode } from '../features/Global/globalSlice'
 
 const Header = ({route}) => {
-
-  const setCategorySelected = useSelector(state.shop.value.CategorySelected)
   
+  const dispatch = useDispatch()
+  const [isEnabled, setIsEnabled] = useState(false)
+  const categorySelected = useSelector(state => state.shop.value.categorySelected)
+
+  const handleTheme = () => {
+    setIsEnabled(initialValue => !initialValue)
+    dispatch(setDarkMode(!isEnabled))
+  }
+
+  console.log(isEnabled);
   const {height, width} = useWindowDimensions()
   return (
     <View style = {styles.container}>
       <Text style = {width > 360 ? styles.text: styles.textSm}>{route.name}</Text>
+      <SwitchCustom
+        isEnabled = {isEnabled}
+        setIsEnabled = {handleTheme}
+      />
     </View>
   )
 }
