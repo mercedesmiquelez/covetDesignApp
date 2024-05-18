@@ -1,0 +1,1 @@
+export const baseUrl = 'https://covetdesign-miquelez-default-rtdb.firebaseio.com/'
