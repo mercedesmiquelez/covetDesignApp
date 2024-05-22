@@ -7,6 +7,7 @@ import ShopLayout from "../components/ShopLayout"
 
 const Home = ({ route, navigation}) => {
   const {data: categories, error, isLoading} = useGetCategoriesQuery()
+  // console.log({ categories: categories})
 
 
 

@@ -6,7 +6,14 @@
         "rating": 4.69,
         "price": 500,
         "category": "living",
-        "images": "https://i.postimg.cc/mZPxXQng/model-living.jpg"
+        "images": [
+            "https://i.postimg.cc/mZPxXQng/model-living.jpg"
+        ],
+        "discountPercentage": 0,
+        "stock": 0,
+        "brand": "",
+        "thumbnail": "https://i.postimg.cc/mZPxXQng/model-living.jpg",
+        "quantity": 8
     },
     {
         "id": 2,
@@ -15,7 +22,14 @@
         "rating": 5.00,
         "price": 500,
         "category": "cocina",
-        "images": "https://i.postimg.cc/C53smyQk/model-cocina.jpg"
+        "images": [
+            "https://i.postimg.cc/C53smyQk/model-cocina.jpg"
+        ],
+        "discountPercentage": 0,
+        "stock": 0,
+        "brand": "",
+        "thumbnail": "https://i.postimg.cc/C53smyQk/model-cocina.jpg",
+        "quantity": 8
     },
     {
         "id": 3,
@@ -24,7 +38,14 @@
         "rating": 5.00,
         "price": 500,
         "category": "dormitorio",
-        "images": "https://i.postimg.cc/tTfcQMcC/model-domitorio.jpg"
+        "images": [
+            "https://i.postimg.cc/tTfcQMcC/model-domitorio.jpg"
+        ],
+        "discountPercentage": 0,
+        "stock": 0,
+        "brand": "",
+        "thumbnail": "https://i.postimg.cc/tTfcQMcC/model-domitorio.jpg",
+        "quantity": 8
     },
     {
         "id": 4,
@@ -33,7 +54,14 @@
         "rating": 5.00,
         "price": 500,
         "category": "comedor",
-        "images": "https://i.postimg.cc/8cJbRktT/model-comedor.jpg"
+        "images": [
+            "https://i.postimg.cc/8cJbRktT/model-comedor.jpg"
+        ],
+        "discountPercentage": 0,
+        "stock": 0,
+        "brand": "",
+        "thumbnail": "https://i.postimg.cc/8cJbRktT/model-comedor.jpg",
+        "quantity": 8
     },
     {
         "id": 5,
@@ -42,7 +70,14 @@
         "rating": 5.00,
         "price": 500,
         "category": "escritorio",
-        "images": "https://i.postimg.cc/prF62BNQ/model-eespeciales-1.jpg"
+        "images": [
+            "https://i.postimg.cc/prF62BNQ/model-eespeciales-1.jpg"
+        ],
+        "discountPercentage": 0,
+        "stock": 0,
+        "brand": "",
+        "thumbnail": "https://i.postimg.cc/prF62BNQ/model-eespeciales-1.jpg",
+        "quantity": 8
     },
     {
         "id": 6,
@@ -51,7 +86,14 @@
         "rating": 5.00,
         "price": 500,
         "category": "galeria",
-        "images": "https://i.postimg.cc/tRZft911/model-galeria.jpg"
+        "images": [
+            "https://i.postimg.cc/tRZft911/model-galeria.jpg"
+        ],
+        "discountPercentage": 0,
+        "stock": 0,
+        "brand": "",
+        "thumbnail": "https://i.postimg.cc/tRZft911/model-galeria.jpg",
+        "quantity": 8
     },
     {
         "id": 7,
@@ -60,7 +102,14 @@
         "rating": 5.00,
         "price": 500,
         "category": "jardin",
-        "images": "https://i.postimg.cc/h4kY2Nx2/model-jardin.jpg"
+        "images": [
+            "https://i.postimg.cc/h4kY2Nx2/model-jardin.jpg"
+        ],
+        "discountPercentage": 0,
+        "stock": 0,
+        "brand": "",
+        "thumbnail": "https://i.postimg.cc/h4kY2Nx2/model-jardin.jpg",
+        "quantity": 8
     },
     {
         "id": 8,
@@ -69,7 +118,14 @@
         "rating": 5.00,
         "price": 500,
         "category": "terraza",
-        "images": "https://i.postimg.cc/Pr1R9KQT/model-terraza.jpg"
+        "images": [
+            "https://i.postimg.cc/Pr1R9KQT/model-terraza.jpg"
+        ],
+        "discountPercentage": 0,
+        "stock": 0,
+        "brand": "",
+        "thumbnail": "https://i.postimg.cc/Pr1R9KQT/model-terraza.jpg",
+        "quantity": 8
     },
     {
         "id": 9,
@@ -78,6 +134,302 @@
         "rating": 5.00,
         "price": 500,
         "category": "verdes",
-        "images": "https://i.postimg.cc/tRZft911/model-galeria.jpg"
+        "images": [
+            "https://i.postimg.cc/tRZft911/model-galeria.jpg"
+        ],
+        "discountPercentage": 0,
+        "stock": 0,
+        "brand": "",
+        "thumbnail": "https://i.postimg.cc/tRZft911/model-galeria.jpg",
+        "quantity": 8
+    },
+    {
+        "id": 10,
+        "title": "Accesorio de Papel Higiénico",
+        "description": "Un accesorio de papel higiénico elegante y funcional que añade un toque de sofisticación a cualquier baño. Diseñado para combinar con diversos estilos de decoración, este accesorio se destaca por su durabilidad y diseño estético.",
+        "rating": 4.8,
+        "price": 50,
+        "category": "bano",
+        "images": [
+            "https://i.postimg.cc/1zjyGs2y/accesoriopapel1.jpg",
+            "https://i.postimg.cc/ZRv4jXzp/accespapel2.jpg"
+        ],
+        "discountPercentage": 10.0,
+        "stock": 200,
+        "brand": "EcoHome",
+        "thumbnail": "https://i.postimg.cc/1zjyGs2y/accesoriopapel1.jpg",
+        "quantity": 8
+    },
+    {
+        "id": 11,
+        "title": "Accesorio de Azucarera",
+        "description": "Una azucarera elegante y funcional que añade un toque de estilo a tu cocina o comedor. Diseñada con materiales de alta calidad, esta azucarera es perfecta para mantener el azúcar fresco y siempre a mano.",
+        "rating": 4.9,
+        "price": 20,
+        "category": "cocina",
+        "images": [
+            "https://i.postimg.cc/RZCm2WzM/azucarera.jpg",
+            "https://i.postimg.cc/cLDWWdsf/azucarera2.jpg"
+        ],
+        "discountPercentage": 5.0,
+        "stock": 150,
+        "brand": "SweetHome",
+        "thumbnail": "https://i.postimg.cc/RZCm2WzM/azucarera.jpg",
+        "quantity": 8
+    },
+    {
+        "id": 12,
+        "title": "Accesorio de Cajas de Madera",
+        "description": "Un conjunto de cajas de madera versátiles y elegantes, perfectas para organizar y decorar cualquier espacio. Fabricadas con madera de alta calidad, estas cajas son ideales para almacenar y exhibir objetos, aportando un toque rústico y natural a tu hogar.",
+        "rating": 5.00,
+        "price": 60,
+        "category": "living",
+        "images": [
+            "https://i.postimg.cc/13XTpwQN/cajasmadera.jpg",
+            "https://i.postimg.cc/13XTpwQN/cajasmadera.jpg"
+        ],
+        "discountPercentage": 0,
+        "stock": 100,
+        "brand": "WoodCraft",
+        "thumbnail": "https://i.postimg.cc/13XTpwQN/cajasmadera.jpg",
+        "quantity": 8
+    },
+    {
+        "id": 13,
+        "title": "Accesorio de Cestos de Ropa",
+        "description": "Un cesto de ropa elegante y funcional que añade un toque de estilo a tu hogar. Diseñado para combinar con diversos estilos de decoración, este cesto es perfecto para mantener la ropa sucia organizada y fuera de la vista.",
+        "rating": 5.00,
+        "price": 45,
+        "category": "dormitorio",
+        "images": [
+            "https://i.postimg.cc/3JF7LgVS/contenedorestej.jpg",
+            "https://i.postimg.cc/h4xKmFrq/contenedorestej1.jpg"
+        ],
+        "discountPercentage": 0,
+        "stock": 50,
+        "brand": "HomeOrganize",
+        "thumbnail": "https://i.postimg.cc/3JF7LgVS/contenedorestej.jpg",
+        "quantity": 8
+    },
+    {
+        "id": 14,
+        "title": "Accesorio de Escobillón y Pala",
+        "description": "Un conjunto de escobillón y pala elegante y funcional, ideal para mantener tus espacios limpios y ordenados. Diseñado con materiales duraderos, este accesorio combina eficiencia y estilo, siendo perfecto para cualquier hogar.",
+        "rating": 5.00,
+        "price": 25,
+        "category": "cocina",
+        "images": [
+            "https://i.postimg.cc/kXKD76ZK/escypala.jpg",
+            "https://i.postimg.cc/Y2JhcfXt/esypal2.jpg"
+        ],
+        "discountPercentage": 0,
+        "stock": 100,
+        "brand": "CleanHome",
+        "thumbnail": "https://i.postimg.cc/kXKD76ZK/escypala.jpg",
+        "quantity": 8
+    },
+    {
+        "id": 15,
+        "title": "Accesorio de Individual Exclusivo",
+        "description": "Este accesorio de individual combina elegancia y funcionalidad, diseñado para complementar cualquier espacio de comedor con un toque de distinción. Fabricado con materiales de alta calidad, asegura durabilidad y estilo, siendo perfecto para ocasiones especiales y uso diario.",
+        "rating": 4.75,
+        "price": 150,
+        "category": "comedor",
+        "images": [
+            "https://i.postimg.cc/3rjP731W/individual1.jpg",
+            "https://i.postimg.cc/CLF9x9r7/individual2.jpg"
+        ],
+        "discountPercentage": 10,
+        "stock": 20,
+        "brand": "Elegance Home",
+        "thumbnail": "https://i.postimg.cc/3rjP731W/individual1.jpg",
+        "quantity": 8
+    },
+    {
+        "id": 16,
+        "title": "Elegante Jarra de Vidrio",
+        "description": "Esta elegante jarra de vidrio es el complemento perfecto para cualquier mesa. Con un diseño sofisticado y materiales de alta calidad, es ideal para servir bebidas frías y calientes. Su estilo clásico y su funcionalidad la hacen imprescindible para cualquier hogar.",
+        "rating": 4.80,
+        "price": 75,
+        "category": "cocina",
+        "images": [
+            "https://i.postimg.cc/3wRK0dLL/jarras1.jpg",
+            "https://i.postimg.cc/sgKj2pJQ/jarras2.jpg"
+        ],
+        "discountPercentage": 15,
+        "stock": 50,
+        "brand": "Elegance Home",
+        "thumbnail": "https://i.postimg.cc/3wRK0dLL/jarras1.jpg",
+        "quantity": 8
+    },
+    {
+        "id": 17,
+        "title": "Lámpara Decorativa Moderna",
+        "description": "Una lámpara decorativa moderna que transforma cualquier espacio con su elegante diseño y luz ambiental. Ideal para salas de estar, dormitorios y oficinas, esta lámpara combina estilo y funcionalidad, creando un ambiente acogedor y sofisticado.",
+        "rating": 4.85,
+        "price": 250,
+        "category": "galeria",
+        "images": [
+            "https://i.postimg.cc/52KhGp33/lamparadecor1.jpg",
+            "https://i.postimg.cc/5tHhMvKM/lamparadecor2.jpg"
+        ],
+        "discountPercentage": 5,
+        "stock": 30,
+        "brand": "Modern Lights",
+        "thumbnail": "https://i.postimg.cc/52KhGp33/lamparadecor1.jpg",
+        "quantity": 8
+    },
+    {
+        "id": 18,
+        "title": "Maceta de Cerámica Elegante",
+        "description": "Esta maceta de cerámica elegante es el complemento perfecto para tus plantas favoritas. Su diseño sofisticado y acabado de alta calidad añadirán un toque de estilo a cualquier espacio interior o exterior. Ideal para realzar la belleza de tus plantas y crear un ambiente acogedor.",
+        "rating": 4.75,
+        "price": 35,
+        "category": "jardin",
+        "images": [
+            "https://i.postimg.cc/J0bmCJnh/maceta1.jpg",
+            "https://i.postimg.cc/7hvDRXqc/maceta2.jpg"
+        ],
+        "discountPercentage": 10,
+        "stock": 40,
+        "brand": "Garden Decor",
+        "thumbnail": "https://i.postimg.cc/J0bmCJnh/maceta1.jpg",
+        "quantity": 8
+    },
+    {
+        "id": 19,
+        "title": "Mesa de Luz Moderna",
+        "description": "Esta mesa de luz moderna es la combinación perfecta de estilo y funcionalidad. Con un diseño elegante y contemporáneo, ofrece espacio de almacenamiento adicional y una iluminación suave para crear un ambiente relajante en cualquier dormitorio. Añade un toque de sofisticación a tu espacio de descanso con esta mesa de luz.",
+        "rating": 4.85,
+        "price": 180,
+        "category": "dormitorio",
+        "images": [
+            "https://i.postimg.cc/6QDD63F4/mesaluz1.jpg",
+            "https://i.postimg.cc/FR3wYvQW/mesaluz2.jpg"
+        ],
+        "discountPercentage": 10,
+        "stock": 25,
+        "brand": "Urban Living",
+        "thumbnail": "https://i.postimg.cc/6QDD63F4/mesaluz1.jpg",
+        "quantity": 8
+    },
+    {
+        "id": 20,
+        "title": "Armario de Madera Maciza",
+        "description": "Este armario de madera maciza es una combinación perfecta de funcionalidad y estilo. Construido con madera de alta calidad, ofrece durabilidad y un aspecto elegante que complementará cualquier decoración. Con estantes ajustables y cajones espaciosos, proporciona un amplio espacio de almacenamiento para tus pertenencias. Añade calidez y elegancia a tu hogar con este mueble de guardado de madera.",
+        "rating": 4.85,
+        "price": 650,
+        "category": "escritorio",
+        "images": [
+            "https://i.postimg.cc/3NCMcTS4/muebleguardado.jpg",
+            "https://i.postimg.cc/qqdVwRLH/muebleguardado1.jpg"
+        ],
+        "discountPercentage": 10,
+        "stock": 20,
+        "brand": "Wooden Creations",
+        "thumbnail": "https://i.postimg.cc/3NCMcTS4/muebleguardado.jpg",
+        "quantity": 8
+    },
+    {
+        "id": 21,
+        "title": "Silla de Comedor Moderna",
+        "description": "Esta silla de comedor moderna combina estilo y comodidad para ofrecer una experiencia de asiento excepcional. Con un diseño elegante y ergonómico, esta silla es perfecta para cualquier espacio de comedor o área de estar. Fabricada con materiales de alta calidad, garantiza durabilidad y confort para tus invitados. Eleva la decoración de tu hogar con esta silla de diseño contemporáneo.",
+        "rating": 4.75,
+        "price": 150,
+        "category": "comedor",
+        "images": [
+            "https://i.postimg.cc/pXbXcVTT/silla1.jpg",
+            "https://i.postimg.cc/dVJQvWGc/silla2.jpg"
+        ],
+        "discountPercentage": 10,
+        "stock": 30,
+        "brand": "Modern Living",
+        "thumbnail": "https://i.postimg.cc/pXbXcVTT/silla1.jpg",
+        "quantity": 8
+    },
+    {
+        "id": 22,
+        "title": "Silla Alta",
+        "description": "Esta silla alta es la opción perfecta para que tu disfrute de sus comidas con comodidad. Diseñada con materiales resistentes y duraderos, cuenta con un arnés de seguridad ajustable y una bandeja desmontable para facilitar la limpieza. Su diseño compacto y moderno la hace ideal para cualquier espacio de cocina o comedor.",
+        "rating": 4.80,
+        "price": 80,
+        "category": "living",
+        "images": [
+            "https://i.postimg.cc/yNkHY2dt/sillaalta1.jpg",
+            "https://i.postimg.cc/B6Ff2D2C/sillaalta2.jpg"
+        ],
+        "discountPercentage": 15,
+        "stock": 20,
+        "brand": "Baby Comfort",
+        "thumbnail": "https://i.postimg.cc/yNkHY2dt/sillaalta1.jpg",
+        "quantity": 8
+    },
+    {
+        "id": 23,
+        "title": "Sillón de Estilo Moderno",
+        "description": "Este sillón de estilo moderno es la pieza perfecta para añadir comodidad y elegancia a tu sala de estar o espacio de descanso. Con un diseño contemporáneo y materiales de alta calidad, ofrece un lugar acogedor para relajarte después de un largo día. Su respaldo y apoyabrazos ergonómicos proporcionan un confort óptimo. Transforma tu hogar con este sofisticado sillón.",
+        "rating": 4.75,
+        "price": 350,
+        "category": "comedor",
+        "images": [
+            "https://i.postimg.cc/rwTssyXb/sillon1.jpg",
+            "https://i.postimg.cc/8zb568TC/sillon2.jpg"
+        ],
+        "discountPercentage": 10,
+        "stock": 15,
+        "brand": "Modern Living",
+        "thumbnail": "https://i.postimg.cc/rwTssyXb/sillon1.jpg",
+        "quantity": 8
+    },
+    {
+        "id": 24,
+        "title": "Cesto de Basura Moderno",
+        "description": "Este cesto de basura moderno es la solución perfecta para mantener tu hogar limpio y organizado con estilo. Fabricado con materiales resistentes y duraderos, cuenta con un diseño elegante que complementa cualquier espacio. Su tapa abatible y capacidad generosa lo hacen ideal para el uso diario en la cocina, el baño o la oficina.",
+        "rating": 4.80,
+        "price": 40,
+        "category": "bano",
+        "images": [
+            "https://i.postimg.cc/RF2VB4Lg/tachobasu1.jpg",
+            "https://i.postimg.cc/1X6RR2Ws/tachobasu2.jpg"
+        ],
+        "discountPercentage": 10,
+        "stock": 50,
+        "brand": "Home Essentials",
+        "thumbnail": "https://i.postimg.cc/RF2VB4Lg/tachobasu1.jpg",
+        "quantity": 8
+    },
+    {
+        "id": 25,
+        "title": "Toalla de Baño de Lujo",
+        "description": "Esta toalla de baño de lujo es el complemento perfecto para tu rutina de cuidado personal. Fabricada con algodón suave y absorbente, proporciona una experiencia de secado excepcional después de cada baño. Su diseño elegante y duradero la convierte en una opción ideal para tu baño o spa en casa. Disfruta del confort y la calidad con esta toalla de baño de lujo.",
+        "rating": 4.75,
+        "price": 25,
+        "category": "bano",
+        "images": [
+            "https://i.postimg.cc/nzXcgCBs/toalla2.jpg",
+            "https://i.postimg.cc/MGKG0sGm/toalla1.jpg"
+        ],
+        "discountPercentage": 10,
+        "stock": 100,
+        "brand": "Luxury Towels",
+        "thumbnail": "https://i.postimg.cc/nzXcgCBs/toalla2.jpg",
+        "quantity": 8
+    },
+    {
+        "id": 26,
+        "title": "Velador de Estilo Moderno",
+        "description": "Este velador de estilo moderno es la adición perfecta para tu dormitorio o sala de estar. Con un diseño elegante y minimalista, ofrece un espacio funcional para colocar lámparas, libros u otros objetos decorativos. Fabricado con materiales de alta calidad, garantiza durabilidad y estilo en tu espacio. Dale un toque de modernidad a tu hogar con este velador.",
+        "rating": 4.80,
+        "price": 80,
+        "category": "dormitorio",
+        "images": [
+            "https://i.postimg.cc/Kj5V55jt/velador1.jpg",
+            "https://i.postimg.cc/2yYMvtkz/velador2.jpg"
+        ],
+        "discountPercentage": 15,
+        "stock": 30,
+        "brand": "Modern Home",
+        "thumbnail": "https://i.postimg.cc/Kj5V55jt/velador1.jpg",
+        "quantity": 8
     }
 ]

@@ -431,21 +431,5 @@
         "brand": "Modern Home",
         "thumbnail": "https://i.postimg.cc/Kj5V55jt/velador1.jpg",
         "quantity": 8
-    },
-    {
-        "id": 1,
-        "title": "Baños Elegantes",
-        "description": "El baño es un espacio íntimo y relajante que merece ser decorado con estilo y funcionalidad. Nuestros accesorios de baño elegantes están diseñados para agregar un toque de sofisticación a tu oasis personal. Desde portacepillos hasta dispensadores de jabón, cada pieza ha sido seleccionada cuidadosamente para complementar la decoración de tu baño, creando un ambiente armonioso y acogedor.",
-        "rating": 4.69,
-        "price": 500,
-        "category": "baño",
-        "images": [
-            "https://i.postimg.cc/h4Jf331C/ban-o-1.jpg"
-        ],
-        "discountPercentage": 0,
-        "stock": 0,
-        "brand": "",
-        "thumbnail": "https://i.postimg.cc/h4Jf331C/ban-o-1.jpg",
-        "quantity": 8
     }
 ]
